@@ -1,7 +1,6 @@
 # 👋 Hola, soy Gabriel
 
-Soy un apasionado de la tecnología y la optimización web, con experiencia en desarrollo, integración de sistemas y gestión de proyectos digitales.  
-Actualmente me encuentro realizando el **Bootcamp Fullstack JavaScript** en [Desafío Latam](https://desafiolatam.com/), ampliando mis habilidades para crear soluciones web completas, eficientes y escalables.
+Soy un apasionado de la tecnología y la optimización web, con experiencia en desarrollo, integración de sistemas y gestión de proyectos digitales. Actualmente me encuentro realizando el **Bootcamp Fullstack JavaScript** en [Desafío Latam](https://desafiolatam.com/), ampliando mis habilidades para crear soluciones web completas, eficientes y escalables.
 
 ---
 
@@ -12,21 +11,21 @@ Disfruto trabajar en proyectos que requieren planificación, lógica y creativid
 ---
 
 ## 🛠 Habilidades
-- **Lenguajes:** JavaScript, PHP, Visual Basic, C#, HTML5, CSS3, SQL
-- **Frameworks / Librerías:** Node.js, React (aprendiendo), jQuery
-- **CMS & eCommerce:** WordPress, WooCommerce, Jumpseller
-- **Integraciones:** APIs REST, WooCommerce API, integraciones con ERP Access
+- **Lenguajes:** JavaScript, PHP, HTML5, CSS3, SQL
+- **Personalización:** Plugins a medida según necesidades del cliente y optimización de su página.
+- **Frameworks / Librerías:** Bootstrap, React (aprendiendo), jQuery
+- **CMS & eCommerce:** WordPress, WooCommerce, Shopify, Jumpseller
+- **Integraciones:** APIs REST, WooCommerce API, integraciones con ERP, pasarelas de págo y envíos
 - **Optimización Web:** mejora de tiempos de carga, SEO técnico, optimización de UX/UI
 - **Herramientas:** Git, Visual Studio Code, MongoDB Compass, cPanel
-- **Sistemas Operativos:** Windows, Linux Mint, Kali Linux
 
 ---
 
 ## 💼 Experiencia
-- **Integración de sistemas ERP con eCommerce** (WooCommerce ↔ Access)  
-- **Migraciones de plataformas** (Jumpseller → WooCommerce, cambios de hosting, ajustes DNS)  
+- **Integración de sistemas ERP & Facturadores con eCommerce** (WooCommerce ↔ Bsale | Odoo | Facto | Lioren )  
+- **Migraciones de plataformas** (Jumpseller | Shopify → WooCommerce)
 - **Optimización de sitios web** para mejorar velocidad, SEO y conversión  
-- **Desarrollo de funciones personalizadas** en WordPress/WooCommerce (checkout, snippets, automatizaciones)  
+- **Desarrollo de plugins y funciones personalizadas** en WordPress/WooCommerce (checkout, snippets, automatizaciones) 
 - **Gestión de proyectos técnicos** coordinando con equipos de desarrollo, SEO y marketing  
 
 ---
@@ -34,10 +33,12 @@ Disfruto trabajar en proyectos que requieren planificación, lógica y creativid
 ## 🌐 Últimos proyectos publicados
 - [Cruzeiro Gomas](https://cruzeirogomas.cl) – eCommerce especializado en productos de caucho y hogar.
 - [Banquetes FAS](https://banquetesfas.cl) – sitio corporativo para servicios de banquetería y eventos.
+- [Effilogistic](https://effilogistic.cl) – Logistica integral y gestión de importación y exportación.
+- [Fortressd](https://Fortressd.cl) – Fabrica de muebles a medida para distitos rubros inmobiliarios.
 
 ### 💻 Aquí ecnontrarás el plugin que he desarrollado para validar factbiilidad ténica según dirección de los clientes 
-- [Decohaus](https://miuno.cl) – Empresa de telecomunicaciones.
-- [Decohaus](https://sznet.cl) – Empresa de telecomunicaciones.  
+- [Miuno](https://miuno.cl) – Empresa de telecomunicaciones.
+- [Sznet](https://sznet.cl) – Empresa de telecomunicaciones.
 
 ---
 
